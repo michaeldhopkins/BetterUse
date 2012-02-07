@@ -1,0 +1,12 @@
+body {
+	background-color:#eefeff;
+    min-width:357px;
+    overflow-x:hidden;
+}
+
+h2 {
+	color:#f389aa;
+	font-family:Verdana, Arial, sans-serif;
+	margin:8px;
+	text-shadow: 1px 1px 1px #666;
+}

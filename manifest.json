@@ -1,0 +1,19 @@
+{
+	"name": "BetterUse",
+	"version": "1.0",
+	"description": "Gives advice on the best way to use the time-wasting site you're on.",
+	"icons": { 
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+  	},
+	"browser_action": {
+		"default_icon": "icon16.png",
+		"default_title": "BetterUse!",
+		"popup": "popup.html"
+	},
+	"permissions": [
+		"tabs",
+		"http://api.flickr.com"
+	]
+}

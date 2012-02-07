@@ -1,0 +1,10 @@
+Welcome to BetterUse!
+BetterUse suggests more awesome things than what you're probably doing on Facebook, Tumblr, LinkedIn, etc.
+
+To use it, download betteruse.crx and install it in Chrome. Currently you have to click the inscrutable icon to see the suggestion.
+
+TODO:
+* Add many more sites
+* Random quotes for sites
+* Inject BetterUse into sites
+* (eventually) stop storing all quotes in an object and start using a simple API.
